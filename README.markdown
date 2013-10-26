@@ -1,6 +1,10 @@
 # Calais #
 A Ruby interface to the [Open Calais Web Service](http://opencalais.com)
 
+## About this Fork ##
+Forked from https://github.com/abhay/calais version ~> 0.0.13
+to fix issues caused by the depreciation of iconv in ruby > 1.9.3
+
 ## Features ##
 * Accepts documents in text/plain, text/xml and text/html format.
 * Basic access to the Open Calais API's Enlighten action.

@@ -3,14 +3,14 @@
 require File.expand_path("../lib/calais/version", __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.name = 'calais'
+  gem.name = 'jm-calais'
   gem.version = Calais::VERSION
 	gem.date    = Date.today.to_s
 
 	gem.summary = 'A Ruby interface to the Calais Web Service'
 	gem.description = 'A Ruby interface to the Calais Web Service'
 
-	gem.authors = ['Abhay Kumar']
+	gem.authors = ['Abhay Kumar', 'Jim Mayes']
 	gem.email = 'info@opensynapse.net'
 	gem.homepage = 'http://github.com/abhay/calais'
 
